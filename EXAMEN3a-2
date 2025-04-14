@@ -1,0 +1,9 @@
+<script>start("/Users/nereaalcolecha/Library/CloudStorage/OneDrive-FloridaCentredeFormacióCoop.V/2425/prog2/BaseProgramacionLAMP-main/public/EXAMEN3a-2/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("clases","clases",1,160,"160 B",1744619916,"14/4/25, 10:38:36");</script>
+<script>addRow("img","img",1,128,"128 B",1744612820,"14/4/25, 8:40:20");</script>
+<script>addRow("autoload.php","autoload.php",0,124,"124 B",1744619580,"14/4/25, 10:33:00");</script>
+<script>addRow("conf.json","conf.json",0,89,"89 B",1744613223,"14/4/25, 8:47:03");</script>
+<script>addRow("index.html","index.html",0,37532,"36.7 kB",1744612819,"14/4/25, 8:40:19");</script>
+<script>addRow("index.php","index.php",0,2331,"2.3 kB",1744621586,"14/4/25, 11:06:26");</script>
+<script>addRow("stadium.sql","stadium.sql",0,7770,"7.6 kB",1744612819,"14/4/25, 8:40:19");</script>
